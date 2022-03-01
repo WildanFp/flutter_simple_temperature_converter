@@ -6,4 +6,4 @@ from celcius to kelvin and reamor
 
 ## preview
 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/M91HvyD/temperature.png" alt="temperature" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/M91HvyD/temperature.png" alt="temperature" border="5"></a>
